@@ -1,0 +1,39 @@
+_repo: This-was-a-man-b-A-comedy-in-three-acts_75864
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Coward, Noël
+    aliases:
+    - Coward, Noel Pierce, Sir
+    - Coward, Noel
+    - Whittlebot, Hernia
+    birthdate: 1899
+    deathdate: 1973
+    gutenberg_agent_id: '32147'
+    url: http://www.gutenberg.org/2009/agents/32147
+    wikipedia: http://en.wikipedia.org/wiki/No%C3%ABl_Coward
+description: 'Wikipedia page about this book: https://en.wikipedia.org/wiki/This_Was_a_Man'
+gutenberg_issued: '2025-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75864'
+language: en
+pgterms:marc904: https://books.google.com/books?id=nMtGAAAAYAAJ
+pgterms:marc905: 20240526092821coward
+pgterms:marc906: '1926'
+pgterms:marc907: us
+production_note: Hannah Wilson and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from scanned images of public domain material from the Google
+  Books project.)
+publication_note: '  $aGarden City :$bDoubleday, Doran & Company, Inc., $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedy plays'
+- !lcsh 'Triangles (Interpersonal relations) -- Drama'
+- !lcsh 'English drama (Comedy) -- 20th century'
+- !lcc 'PR'
+- GITenberg
+title: '"This was a man" : $b A comedy in three acts'
+url: http://www.gutenberg.org/ebooks/75864

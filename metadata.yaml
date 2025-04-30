@@ -1,5 +1,8 @@
 _repo: This-was-a-man-b-A-comedy-in-three-acts_75864
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75864-h/images/cover.jpg
 creator:
   author:
     agent_name: Coward, Noël
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32147
     wikipedia: http://en.wikipedia.org/wiki/No%C3%ABl_Coward
 description: 'Wikipedia page about this book: https://en.wikipedia.org/wiki/This_Was_a_Man'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75864#This-was-a-man-b-A-comedy-in-three-acts
 gutenberg_issued: '2025-04-14'
 gutenberg_type: Text
 identifiers:
